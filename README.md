@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://packagist.org/packages/terabytesoftw/helper-timezone" target="_blank">
-        <img src="https://poser.pugx.org/terabytesoftw/helper-timezone/v/unstable.svg" alt="Unstable Version">
+        <img src="https://poser.pugx.org/terabytesoftw/helper-timezone/v/unstable" alt="Unstable Version">
     </a>
     <a href="https://travis-ci.org/terabytesoftw/helper-timezone" target="_blank">
         <img src="https://travis-ci.org/terabytesoftw/helper-timezone.svg?branch=master" alt="Build Status">
@@ -107,7 +107,7 @@ $ vendor/bin/codecept run unit --coverage-xml
 
 ### **LICENCE:**
 
-[![License](https://poser.pugx.org/terabytesoftw/helper-timezone/license.svg)](LICENSE.md)
+[![License](https://poser.pugx.org/terabytesoftw/helper-timezone/license)](LICENSE.md)
 [![YiiFramework](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
-[![Total Downloads](https://poser.pugx.org/terabytesoftw/helper-timezone/downloads.svg)](https://packagist.org/packages/terabytesoftw/helper-timezone)
+[![Total Downloads](https://poser.pugx.org/terabytesoftw/helper-timezone/downloads)](https://packagist.org/packages/terabytesoftw/helper-timezone)
 [![StyleCI](https://github.styleci.io/repos/195531459/shield?branch=master)](https://github.styleci.io/repos/195531459)
