@@ -20,7 +20,7 @@ class TimeZone
         foreach ($timeZoneIdentifiers as $timeZone) {
             $date = new \DateTime('now', new \DateTimeZone($timeZone));
             $offset = $date->getOffset();
-            $tz = ($offset > 0 ? '+' : '-') . gmdate('H:i', abs($offset));
+            $tz = ($offset > 0 ? '+' : '-') . gmdate('H:i', (int) abs($offset));
             $timeZones[] = [
                 'timezone' => $timeZone,
                 'name' => "{$timeZone} (UTC {$tz})",
